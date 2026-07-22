@@ -1,6 +1,21 @@
-# 🎓 CampusGuide AI
+<h1 align="center">🎓 CampusGuide AI</h1>
 
-> An AI-powered Retrieval-Augmented Generation (RAG) based Knowledge Assistant that enables users to upload institutional PDF documents and ask natural language questions to receive context-aware answers using semantic search and Large Language Models (LLMs).
+<p align="center">
+  An AI-powered Retrieval-Augmented Generation (RAG) based Knowledge Assistant
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.14-blue?logo=python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VectorDB-FAISS-orange" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLM-OpenAI-green" />
+</p>
+
 
 ---
 
